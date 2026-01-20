@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Essays
+title: Essays on Tanakh (Hebrew Bible) and Jewish Thought
 permalink: /essays/
 ---
 
@@ -146,16 +146,8 @@ Here are some selected posts (chronological):
 * [Jonah and Hallel: Similar Songs, Distinct Messages](https://blogs.timesofisrael.com/jonah-and-hallel-similar-songs-distinct-messages/)
   September 28, 2025
 
+## Academia.edu
 
-
-## 929
-
-- *(Add links here)*
-
-## Mizrachi
-
-- *(Add links here)*
-
-## Elsewhere
+For a complete list of essays, including PDF versions, see my [Academia.edu profile](https://independent.academia.edu/DavidCurwin).
 
 - *(Add links here — including Academia.edu, etc.)*
