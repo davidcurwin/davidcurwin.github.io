@@ -5,11 +5,14 @@ heading: David Curwin
 permalink: /
 ---
 
-<p class="lede">David Curwin is an independent scholar and author who has lived in Israel since 1996. His work focuses on Jewish texts and the Hebrew language, especially the histories of words and the way meanings shift across Biblical, Rabbinic, and Modern Hebrew.</p>
+<p class="lede">David Curwin is an independent scholar and author who has lived in Israel since 1996. He has researched and published widely on Tanakh, Jewish thought and philosophy, and the Hebrew language. He studied at Yeshivat HaKibbutz HaDati.</p>
 
-He is best known for “Balashon – Hebrew Language Detective,” a site he has maintained since 2006, where he traces Hebrew words and phrases through their sources and cognate languages while keeping the discussion accessible to non-specialists.
+His writing includes analysis of Biblical texts, work on themes in Jewish thought and philosophy, and research into how Hebrew words and meanings shift across Biblical, Rabbinic, and Modern Hebrew.
 
-In 2023 he published *Kohelet: A Map to Eden* (Maggid Books), an intertextual reading of Ecclesiastes. His writing has appeared in Tradition, Hakirah, The Lehrhaus, and the Jewish Bible Quarterly. He lives in Efrat with his wife and family and works in the software industry in technical documentation and AI.
+He is best known for “Balashon – Hebrew Language Detective,” a site he has maintained since 2006, where he traces Hebrew words and phrases through their sources and cognate languages in an accessible way.
+
+In 2023 he published his first book, *Kohelet: A Map to Eden* (Maggid Books), an intertextual reading of Ecclesiastes. His writing has appeared in Tradition, Hakirah, The Lehrhaus, and the Jewish Bible Quarterly, among others. He works as a technical writer specializing in AI. He lives in Efrat, Israel, where he continues his research and writing.
+
 
 <div class="cards">
   <div class="card">
