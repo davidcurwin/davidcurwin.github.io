@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Kohelet: A Map to Eden
+title: "Kohelet: A Map to Eden"
+heading: "Kohelet: A Map to Eden"
 permalink: /kohelet/
 ---
+
 
 *Kohelet: A Map to Eden* (Maggid Books, 2023) is an intertextual study of Kohelet (Ecclesiastes) that traces its patterns, echoes, and connections across Tanakh. Drawing on traditional sources alongside modern scholarship, the book presents linguistic and thematic evidence linking Kohelet to the opening chapters of Bereishit, especially the Eden narrative, and explores parallels between the lives of King Shlomo and Adam. From there, it follows these connections outward to other biblical episodes and mitzvot - including the story of the Spies, tzitzit, and the Yom Kippur service - offering a way to read Kohelet as a coherent work with a developing inner logic and a constructive message.
 
