@@ -150,4 +150,3 @@ Here are some selected posts (chronological):
 
 For a complete list of essays, including PDF versions, see my [Academia.edu profile](https://independent.academia.edu/DavidCurwin).
 
-- *(Add links here — including Academia.edu, etc.)*
