@@ -67,6 +67,3 @@ You can read a sample of the first 30 pages [here](https://korenpub.com/cdn/shop
 
 - Book launch at the Women’s Beit Midrash of Efrat and Gush Etzion: [YouTube recording](https://www.youtube.com/watch?v=fUPga2CKr6A) (photos: [Facebook album](https://www.facebook.com/permalink.php?story_fbid=pfbid0e25jPAox9edsTA6vJtrEoxabaGNHVb5bezdUR3NjQw5ZWgxTrSBHgi2oi4wRa6Wdl&id=100064714867368))
 
-
-
-- *(Add entries here, or tell me if you’d rather have a dedicated “Extras” page with dated posts.)*
