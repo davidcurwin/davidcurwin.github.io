@@ -7,7 +7,7 @@ permalink: /balashon/
 “Balashon – Hebrew Language Detective” is my blog where I investigate the meanings and histories of Hebrew words and phrases, which I’ve been writing since 2006. Posts look at Hebrew across Biblical, Rabbinic, Medieval, and Modern sources (including slang), and often trace how meanings develop over time. I also compare Hebrew to related languages such as Aramaic and Arabic, and I look at loanwords as they enter Hebrew from Greek, Latin, and English (and sometimes travel in the other direction as well).
 
 <div class="btnrow">
-  <a class="btn" href="https://balashon.com/">Visit Balashon</a>
+  <a class="btn" href="https://balashon.com/">Visit the Balashon blog</a>
 </div>
 
 Here's a selection of popular posts:
