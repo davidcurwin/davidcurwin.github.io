@@ -73,8 +73,6 @@ permalink: /essays/
 
 ## The Lehrhaus
 
-## Essays: Lehrhaus
-
 * [Who Will Defend Maimonides? Rav Soloveitchik on the Mishneh Torah and the Guide](https://thelehrhaus.com/scholarship/who-will-defend-maimonides-rav-soloveitchik-on-the-mishneh-torah-and-the-guide/)
   January 2, 2017
 
