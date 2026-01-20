@@ -104,6 +104,10 @@ permalink: /essays/
 * [The Orthodox Literary Approach: Opening Doors and Closing Gaps](https://dafaleph.com/s/Orthodox-Literary-Approach.pdf)
   February 5, 2025
 
+## Published in Books
+
+- [“Kingdom of Priests – Missed Opportunities”](https://www.academia.edu/61929246/Kingdom_of_Priests_Missed_Opportunities). Included in *Lighting Up The Nations: Jewish Responsibility Towards the Nations Today and in the Messianic Era* (Geula Watch Press, 2021).
+
 ## Times of Israel
 
 All posts can be found here: [https://blogs.timesofisrael.com/author/david-curwin/](https://blogs.timesofisrael.com/author/david-curwin/)
