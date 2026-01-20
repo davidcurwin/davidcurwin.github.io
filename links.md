@@ -6,10 +6,8 @@ permalink: /links/
 
 ## Social
 
-- Facebook: *(add link)*
-- X / Twitter: *(add link)*
-- LinkedIn: *(add link)*
+- Facebook: <https://www.facebook.com/dcurwin>
+- X / Twitter: <https://x.com/dlcurwin>
+- LinkedIn: <https://www.linkedin.com/in/dcurwin/>
 
-## Academic / writing
 
-- Academia.edu: *(add link)*
