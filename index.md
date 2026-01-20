@@ -28,7 +28,7 @@ In 2023 he published his first book, *Kohelet: A Map to Eden* (Maggid Books), an
   <div class="card">
     <h3>Balashon</h3>
     <div class="muted">The Hebrew Language Detective blog.</div>
-    <div class="btnrow"><a class="btn" href="{{ '/balashon/' | relative_url }}">Visit Balashon</a></div>
+    <div class="btnrow"><a class="btn" href="{{ '/balashon/' | relative_url }}">Learn more about Balashon</a></div>
   </div>
   <div class="card">
     <h3>Contact</h3>
