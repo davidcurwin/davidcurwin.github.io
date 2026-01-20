@@ -5,7 +5,7 @@ heading: David Curwin
 permalink: /
 ---
 
-<p class="lede">David Curwin is an independent scholar and author who has lived in Israel since 1996. He has researched and published widely on Tanakh, Jewish thought and philosophy, and the Hebrew language. He studied at Yeshivat HaKibbutz HaDati.</p>
+<p class="lede">An independent scholar and author who has lived in Israel since 1996, David Curwin has researched and published widely on Tanakh, Jewish thought and philosophy, and the Hebrew language. He studied at Yeshivat HaKibbutz HaDati.</p>
 
 His writing includes analysis of Biblical texts, work on themes in Jewish thought and philosophy, and research into how Hebrew words and meanings shift across Biblical, Rabbinic, and Modern Hebrew.
 
