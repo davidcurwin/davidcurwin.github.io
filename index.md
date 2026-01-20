@@ -14,12 +14,12 @@ In 2023 he published *Kohelet: A Map to Eden* (Maggid Books), an intertextual re
 <div class="cards">
   <div class="card">
     <h3>Kohelet</h3>
-    <div class="muted">Buy links, reviews, podcast interviews, talks, and extras.</div>
+    <div class="muted">Links to purchase, reviews, podcast interviews, talks, and more.</div>
     <div style="margin-top:10px;"><a class="btn" href="{{ '/kohelet/' | relative_url }}">Go to Kohelet page</a></div>
   </div>
   <div class="card">
     <h3>Essays</h3>
-    <div class="muted">Links to published essays and articles by venue.</div>
+    <div class="muted">Links to published essays and articles on Tanakh (Hebrew Bible) and Jewish Thought.</div>
     <div style="margin-top:10px;"><a class="btn" href="{{ '/essays/' | relative_url }}">Browse essays</a></div>
   </div>
   <div class="card">
