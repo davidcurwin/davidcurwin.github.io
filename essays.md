@@ -86,6 +86,24 @@ permalink: /essays/
 * [The Trees of Eden and the Trees of the Siege: Conquest and Protection](https://thelehrhaus.com/scholarship/the-trees-of-eden-and-the-trees-of-the-siege-conquest-and-protection/)
   August 27, 2025
 
+## 18Forty
+
+* [In an Age of Deepfakes, the Torah Reminds Us How Truth Is Verified](https://18forty.org/articles/deepfakes-torah-law/)
+  November 21, 2025
+
+## Seforim Blog
+
+* [Mikra Pashut: A New Reading of the Tanakh](https://seforimblog.com/2025/09/mikra-pashut-a-new-reading-of-the-tanakh/)
+  September 9, 2025
+
+## Daf Aleph
+
+* [Navigating a Dynamic Torah: How Its Trajectory Can Resolve Moral Dilemmas](https://dafaleph.com/home/2024/10/26/navigating-a-dynamic-torah-how-its-trajectory-can-resolve-moral-dilemmas)
+  October 26, 2024
+
+* [The Orthodox Literary Approach: Opening Doors and Closing Gaps](https://dafaleph.com/s/Orthodox-Literary-Approach.pdf)
+  February 5, 2025
+
 
 ## 929
 
