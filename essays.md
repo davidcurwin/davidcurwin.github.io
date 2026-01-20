@@ -53,15 +53,43 @@ permalink: /essays/
 
 ## Hakirah
 
-- *(Add links here)*
+## Essays: Hakirah
+
+* [Sanctifying Our Choices: The Solution to the Paradox of Orthodoxy](https://hakirah.org/vol27Curwin.pdf)
+  27 (2019)
+
+* [Rabbi Eliezer Berkovits and Rabbi Joseph B. Soloveitchik: Neighbors Behind Fences](https://hakirah.org/Vol34Curwin.pdf)
+  33 (2023)
+
 
 ## Jewish Bible Quarterly
 
-- *(Add links here)*
+* [The Nation of Isaac](https://jbqnew.jewishbible.org/assets/Uploads/481/jbq_481_curwinisaac.pdf)
+  48:1 (2020)
+
+* [The Cries of our Rivals](https://jbqnew.jewishbible.org/assets/Uploads/504/jbq_504_curwincries.pdf)
+  50:4 (2022)
+
 
 ## The Lehrhaus
 
-- *(Add links here)*
+## Essays: Lehrhaus
+
+* [Who Will Defend Maimonides? Rav Soloveitchik on the Mishneh Torah and the Guide](https://thelehrhaus.com/scholarship/who-will-defend-maimonides-rav-soloveitchik-on-the-mishneh-torah-and-the-guide/)
+  January 2, 2017
+
+* [Could It Have Been Different? History According to the Rabbis Joseph Soloveitchik](https://thelehrhaus.com/scholarship/could-it-have-been-different-history-according-to-the-rabbis-joseph-soloveitchik/)
+  April 2, 2020
+
+* [Should Jacob Have Conquered Canaan?](https://thelehrhaus.com/timely-thoughts/should-jacob-have-conquered-canaan/)
+  November 18, 2021
+
+* [Ishmael and Moses: Everything Is Foreseen or Freedom Is Given?](https://thelehrhaus.com/tanakh/ishmael-and-moses-everything-is-foreseen-or-freedom-is-given/)
+  November 17, 2024
+
+* [The Trees of Eden and the Trees of the Siege: Conquest and Protection](https://thelehrhaus.com/scholarship/the-trees-of-eden-and-the-trees-of-the-siege-conquest-and-protection/)
+  August 27, 2025
+
 
 ## 929
 
