@@ -5,6 +5,6 @@ permalink: /contact/
 ---
 
 
-- Email: curwin@outlook.com
+- Email: curwin AT outlook.com
 
 
