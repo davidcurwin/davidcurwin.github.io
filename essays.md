@@ -104,6 +104,49 @@ permalink: /essays/
 * [The Orthodox Literary Approach: Opening Doors and Closing Gaps](https://dafaleph.com/s/Orthodox-Literary-Approach.pdf)
   February 5, 2025
 
+## Times of Israel
+
+All posts can be found here: [https://blogs.timesofisrael.com/author/david-curwin/](https://blogs.timesofisrael.com/author/david-curwin/)
+
+Here are some selected posts (chronological):
+
+* [Why I’m Not Fasting on Tisha B’Av This Year](https://blogs.timesofisrael.com/why-im-not-fasting-on-tisha-bav-this-year/)
+  July 16, 2012
+
+* [A Sweet New Year?](https://blogs.timesofisrael.com/a-sweet-new-year/)
+  September 9, 2012
+
+* [Rabbi Hartman and the Unanswered Question](https://blogs.timesofisrael.com/rabbi-hartman-and-the-unanswered-question/)
+  February 26, 2013
+
+* [After 800 Years, Thank You](https://blogs.timesofisrael.com/after-800-years-thank-you/)
+  September 30, 2013
+
+* [Rav Ovadia and Rabbi Hartman – Not as Different as You Might Think](https://blogs.timesofisrael.com/rav-ovadia-and-rabbi-hartman-not-as-different-as-you-might-think/)
+  October 10, 2013
+
+* [To a Healthier Judaism](https://blogs.timesofisrael.com/to-a-healthier-judaism/)
+  October 30, 2013
+
+* [Jerusalem and Carthage: Why Only One Tisha B’Av?](https://blogs.timesofisrael.com/jerusalem-and-carthage-why-only-one-tisha-bav/)
+  July 19, 2015
+
+* [The Torah Isn't Talking to You](https://blogs.timesofisrael.com/the-torah-isnt-talking-to-you/)
+  November 17, 2016
+
+* [From Pesach to Yom HaShoah: Dayenu](https://blogs.timesofisrael.com/from-pesach-to-yom-hashoah-dayenu/)
+  April 8, 2018
+
+* [Shemini Atzeret – Why Didn’t We Stop?](https://blogs.timesofisrael.com/shemini-atzeret-why-didnt-we-stop/)
+  December 17, 2023
+
+* [Torah, Technology and the Internet: 30 Years Later](https://blogs.timesofisrael.com/torah-technology-and-the-internet-30-years-later/)
+  May 22, 2024
+
+* [Jonah and Hallel: Similar Songs, Distinct Messages](https://blogs.timesofisrael.com/jonah-and-hallel-similar-songs-distinct-messages/)
+  September 28, 2025
+
+
 
 ## 929
 
