@@ -53,8 +53,6 @@ permalink: /essays/
 
 ## Hakirah
 
-## Essays: Hakirah
-
 * [Sanctifying Our Choices: The Solution to the Paradox of Orthodoxy](https://hakirah.org/vol27Curwin.pdf)
   27 (2019)
 
