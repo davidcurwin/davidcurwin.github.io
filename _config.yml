@@ -1,0 +1,11 @@
+title: David Curwin
+email: ""
+description: >-
+  David Curwin — independent scholar and author.
+# For GitHub Pages user site, baseurl should be empty.
+baseurl: ""
+url: ""
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins: []
