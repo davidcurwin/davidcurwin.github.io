@@ -4,7 +4,11 @@ title: Kohelet: A Map to Eden
 permalink: /kohelet/
 ---
 
-*Kohelet: A Map to Eden* (Maggid Books, 2023) is an intertextual journey through the Book of Ecclesiastes, exploring its patterns, echoes, and connections—especially in relation to Bereishit and the Eden narrative.
+*Kohelet: A Map to Eden* (Maggid Books, 2023) is an intertextual study of Kohelet (Ecclesiastes) that traces its patterns, echoes, and connections across Tanakh. Drawing on traditional sources alongside modern scholarship, the book presents linguistic and thematic evidence linking Kohelet to the opening chapters of Bereishit, especially the Eden narrative, and explores parallels between the lives of King Shlomo and Adam. From there, it follows these connections outward to other biblical episodes and mitzvot - including the story of the Spies, tzitzit, and the Yom Kippur service - offering a way to read Kohelet as a coherent work with a developing inner logic and a constructive message.
+
+I came to write this book after years of struggling with Kohelet myself. Even though we read it every Sukkot, I often felt I walked away without a clear sense of what it was trying to say, and I understood why many readers experience it as confusing, contradictory, or even bleak. At a certain point I decided to take that challenge seriously. Using an intertextual method I learned from Rabbi David Fohrman and his educational organization Aleph Beta - tracing repeated words and phrases between texts - I began to notice patterns that kept pointing back to Eden. Once I saw those links, they opened up a wider set of connections that reshaped how I read the book. This project grew out of that process, and it’s an invitation to follow that trail and return to Kohelet with a different framework for understanding what it is doing and why it was included in Tanakh.
+
+You can read a sample of the first 30 pages [here](https://korenpub.com/cdn/shop/files/lookinsideKohelet_A_Map_to_Eden.pdf?v=1684153451&v=36889b).
 
 ## Buy the book
 
@@ -63,8 +67,6 @@ permalink: /kohelet/
 
 - Book launch at the Women’s Beit Midrash of Efrat and Gush Etzion: [YouTube recording](https://www.youtube.com/watch?v=fUPga2CKr6A) (photos: [Facebook album](https://www.facebook.com/permalink.php?story_fbid=pfbid0e25jPAox9edsTA6vJtrEoxabaGNHVb5bezdUR3NjQw5ZWgxTrSBHgi2oi4wRa6Wdl&id=100064714867368))
 
-## Extras
 
-A place for things left out of the book, follow-up notes, and new ideas.
 
 - *(Add entries here, or tell me if you’d rather have a dedicated “Extras” page with dated posts.)*
