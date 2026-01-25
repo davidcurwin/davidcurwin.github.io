@@ -39,7 +39,7 @@ You can read a sample of the first 30 pages [here](https://korenpub.com/cdn/shop
     - [YouTube](https://www.youtube.com/watch?v=NfcamdSAYJ8)
     - [Spotify](https://open.spotify.com/episode/1KLbFXWzOpQkqndocstDf1?si=a6001454006142d8)
     - [Apple Podcasts](https://podcasts.apple.com/af/podcast/kins-presents-daytime-dialogues-with-david-curwin-s3-e43/id1524029091?i=1000623216037)
-- **Judaism Demystified**:
+- **Judaism Demystified** (Ben Koren and Benzi Siouni):
     - [Episode page](https://www.judaismdemystified.com/podcast/episode/1d1d6789/episode-73-david-curwin-a-map-to-eden)
     - [YouTube](https://www.youtube.com/watch?v=y3vM1Mzf-XY&t=1008s)
     - [Spotify](https://open.spotify.com/episode/27M9Rue5C9GDQY0QAr5agv?si=d0d76d0a0f8f4915)
