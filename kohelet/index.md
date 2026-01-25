@@ -30,16 +30,34 @@ You can read a sample of the first 30 pages [here](https://korenpub.com/cdn/shop
 
 ## Podcast Interviews
 
-- **New Books Network** (Michael Morales): [episode page](https://newbooksnetwork.com/kohelet-a-map-to-eden)  
-  [Spotify](https://open.spotify.com/episode/4yRcGnSHBFZeVGYUPz8OLX?si=cFjz1Q1QS_CsFi4DtBG61w) | [Apple Podcasts](https://podcasts.apple.com/il/podcast/david-curwin-kohelet-a-map-to-eden-maggid-2023/id425369034?i=1000620995227)
-- **KINS Presents** (Rabbi Leonard Matanky): [Facebook video](https://www.facebook.com/CongregationKINS/posts/pfbid02PRNj2fT74yXMKiMeCR8vAR2EEzJ9WU8CitVWhNSBDFmKviAHs7VYt5V4xQoToQbul) | [YouTube](https://www.youtube.com/watch?v=NfcamdSAYJ8) | [Spotify](https://open.spotify.com/episode/1KLbFXWzOpQkqndocstDf1?si=a6001454006142d8) | [Apple Podcasts](https://podcasts.apple.com/af/podcast/kins-presents-daytime-dialogues-with-david-curwin-s3-e43/id1524029091?i=1000623216037)
-- **Judaism Demystified**: [episode page](https://www.judaismdemystified.com/podcast/episode/1d1d6789/episode-73-david-curwin-a-map-to-eden)  
-  [YouTube](https://www.youtube.com/watch?v=y3vM1Mzf-XY&t=1008s) | [Spotify](https://open.spotify.com/episode/27M9Rue5C9GDQY0QAr5agv?si=d0d76d0a0f8f4915) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/episode-73-david-curwin-a-map-to-eden/id1572203778?i=1000624708136)
-- **Rejuvenation** (Eve Harow): [episode page](https://thelandofisrael.com/view/2581)  
-  [Spotify](https://open.spotify.com/episode/4dbHKoj7FJUbonUFbcivuU?si=iAm9oNCXSbi8klFN6DPS_g) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/rejuvenation-kohelet-a-map-to-eden/id1051088186?i=1000626051911)
-- **Matan: One on One Parsha Podcast** (Dr. Yosefa Fogel Wruble): [episode page](https://www.matan.org.il/en/online/episode-127-sukkot-kohelet-and-eden/)  
-  [Spotify](https://open.spotify.com/show/0uHMFnL8JwLwsCSmNbtibw) | [Apple Podcasts](https://podcasts.apple.com/gb/podcast/matan-one-on-one-parsha-podcast/id1493702879)
-- **RZ Weekly Podcast** (Mali Brofsky, Reuven Spolter, Johnny Solomon): [Facebook video](https://www.facebook.com/rzweekly/videos/288066654016161/) | [Spotify](https://open.spotify.com/episode/4L7lPqJLdpC2kCZPI3EL5I?si=LpjP0GlLSNuW1BGIX9z-8g) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/contemplating-kohelet/id1450263541?i=1000629220241)
-- **Seforim Chatter** (Nachi Weinstein): [episode page](https://seforimchatter.com/2023/09/27/with-david-curwin-discussing-koheles-and-its-connection-to-bereishis/)  
-  [Spotify](https://open.spotify.com/episode/7cm2Tz8NHffOkcQ9Fp7k2Z?si=35b4409b1bee4b3a) | [Apple Podcasts](https://podcasts.apple.com/il/podcast/with-david-curwin-discussing-koheles-and-its-connection/id1523682676?i=1000629374230)
+- **New Books Network** (Michael Morales):
+    - [Episode page](https://newbooksnetwork.com/kohelet-a-map-to-eden)
+    - [Spotify](https://open.spotify.com/episode/4yRcGnSHBFZeVGYUPz8OLX?si=cFjz1Q1QS_CsFi4DtBG61w)
+    - [Apple Podcasts](https://podcasts.apple.com/il/podcast/david-curwin-kohelet-a-map-to-eden-maggid-2023/id425369034?i=1000620995227)
+- **KINS Presents** (Rabbi Leonard Matanky):
+    - [Facebook video](https://www.facebook.com/CongregationKINS/posts/pfbid02PRNj2fT74yXMKiMeCR8vAR2EEzJ9WU8CitVWhNSBDFmKviAHs7VYt5V4xQoToQbul)
+    - [YouTube](https://www.youtube.com/watch?v=NfcamdSAYJ8)
+    - [Spotify](https://open.spotify.com/episode/1KLbFXWzOpQkqndocstDf1?si=a6001454006142d8)
+    - [Apple Podcasts](https://podcasts.apple.com/af/podcast/kins-presents-daytime-dialogues-with-david-curwin-s3-e43/id1524029091?i=1000623216037)
+- **Judaism Demystified**:
+    - [Episode page](https://www.judaismdemystified.com/podcast/episode/1d1d6789/episode-73-david-curwin-a-map-to-eden)
+    - [YouTube](https://www.youtube.com/watch?v=y3vM1Mzf-XY&t=1008s)
+    - [Spotify](https://open.spotify.com/episode/27M9Rue5C9GDQY0QAr5agv?si=d0d76d0a0f8f4915)
+    - [Apple Podcasts](https://podcasts.apple.com/us/podcast/episode-73-david-curwin-a-map-to-eden/id1572203778?i=1000624708136)
+- **Rejuvenation** (Eve Harow):
+    - [Episode page](https://thelandofisrael.com/view/2581)
+    - [Spotify](https://open.spotify.com/episode/4dbHKoj7FJUbonUFbcivuU?si=iAm9oNCXSbi8klFN6DPS_g)
+    - [Apple Podcasts](https://podcasts.apple.com/us/podcast/rejuvenation-kohelet-a-map-to-eden/id1051088186?i=1000626051911)
+- **Matan: One on One Parsha Podcast** (Dr. Yosefa Fogel Wruble):
+    - [Episode page](https://www.matan.org.il/en/online/episode-127-sukkot-kohelet-and-eden/)
+    - [Spotify](https://open.spotify.com/show/0uHMFnL8JwLwsCSmNbtibw)
+    - [Apple Podcasts](https://podcasts.apple.com/gb/podcast/matan-one-on-one-parsha-podcast/id1493702879)
+- **RZ Weekly Podcast** (Mali Brofsky, Reuven Spolter, Johnny Solomon):
+    - [Facebook video](https://www.facebook.com/rzweekly/videos/288066654016161/)
+    - [Spotify](https://open.spotify.com/episode/4L7lPqJLdpC2kCZPI3EL5I?si=LpjP0GlLSNuW1BGIX9z-8g)
+    - [Apple Podcasts](https://podcasts.apple.com/us/podcast/contemplating-kohelet/id1450263541?i=1000629220241)
+- **Seforim Chatter** (Nachi Weinstein):
+    - [Episode page](https://seforimchatter.com/2023/09/27/with-david-curwin-discussing-koheles-and-its-connection-to-bereishis/)
+    - [Spotify](https://open.spotify.com/episode/7cm2Tz8NHffOkcQ9Fp7k2Z?si=35b4409b1bee4b3a)
+    - [Apple Podcasts](https://podcasts.apple.com/il/podcast/with-david-curwin-discussing-koheles-and-its-connection/id1523682676?i=1000629374230)
 
