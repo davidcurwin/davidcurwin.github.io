@@ -34,7 +34,6 @@ In 2023, he published his first book, <em>Kohelet: A Map to Eden</em> (Maggid Bo
     <div class="muted">How to reach David and where to find him online.</div>
     <div class="btnrow">
       <a class="btn" href="{{ '/contact/' | relative_url }}">Contact</a>
-      <span style="margin: 0 0.5em;">|</span>
       <a class="btn" href="{{ '/links/' | relative_url }}">Links</a>
     </div>
   </div>
