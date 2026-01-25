@@ -5,14 +5,13 @@ heading: David Curwin
 permalink: /
 ---
 
+## David Curwin
+
 <p class="lede">An independent scholar and author who has lived in Israel since 1996, David Curwin has researched and published widely on Tanakh, Jewish thought and philosophy, and the Hebrew language. He studied at Yeshivat HaKibbutz HaDati.</p>
 
-His writing includes analysis of Biblical texts, work on themes in Jewish thought and philosophy, and research into how Hebrew words and meanings shift across Biblical, Rabbinic, and Modern Hebrew.
+David's writing includes analysis of Biblical texts, themes in Jewish thought and philosophy, and research into how Hebrew words and meanings shift across Biblical, Rabbinic, and Modern Hebrew. He is best known for <strong>Balashon – Hebrew Language Detective</strong>, a site he has maintained since 2006, where he traces Hebrew words and phrases through their sources and cognate languages in an accessible way.
 
-He is best known for “Balashon – Hebrew Language Detective,” a site he has maintained since 2006, where he traces Hebrew words and phrases through their sources and cognate languages in an accessible way.
-
-In 2023 he published his first book, *Kohelet: A Map to Eden* (Maggid Books), an intertextual reading of Ecclesiastes. His writing has appeared in Tradition, Hakirah, The Lehrhaus, and the Jewish Bible Quarterly, among others. He works as a technical writer specializing in AI. He lives in Efrat, Israel, where he continues his research and writing.
-
+In 2023, he published his first book, <em>Kohelet: A Map to Eden</em> (Maggid Books), an intertextual reading of <em>Ecclesiastes</em>. His writing has appeared in <em>Tradition</em>, <em>Hakirah</em>, <em>The Lehrhaus</em>, and the <em>Jewish Bible Quarterly</em>, among others. A technical writer specializing in AI, he lives in Efrat, Israel, where he continues his research and writing projects.
 
 <div class="cards">
   <div class="card">
@@ -32,7 +31,11 @@ In 2023 he published his first book, *Kohelet: A Map to Eden* (Maggid Books), an
   </div>
   <div class="card">
     <h3>Contact</h3>
-    <div class="muted">How to reach me and where to find me online.</div>
-    <div class="btnrow"><a class="btn" href="{{ '/contact/' | relative_url }}">Contact</a> <a class="btn" href="{{ '/links/' | relative_url }}">Links</a></div>
+    <div class="muted">How to reach David and where to find him online.</div>
+    <div class="btnrow">
+      <a class="btn" href="{{ '/contact/' | relative_url }}">Contact</a>
+      <span style="margin: 0 0.5em;">|</span>
+      <a class="btn" href="{{ '/links/' | relative_url }}">Links</a>
+    </div>
   </div>
 </div>
