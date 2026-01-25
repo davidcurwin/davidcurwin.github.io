@@ -4,8 +4,6 @@ title: Balashon
 permalink: /balashon/
 ---
 
-# Balashon – Hebrew Language Detective
-
 “Balashon – Hebrew Language Detective” is my blog where I investigate the meanings and histories of Hebrew words and phrases. I’ve been writing it since 2006.
 
 Posts explore Hebrew from Biblical, Rabbinic, Medieval, and Modern sources, including slang, and often trace how meanings develop over time. I also compare Hebrew to related languages such as Aramaic and Arabic, and examine loanwords as they enter Hebrew from Greek, Latin, and English. Sometimes, these words even travel in the other direction as well, entering European languages from Hebrew and other Semitic sources.
