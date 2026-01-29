@@ -44,7 +44,7 @@ permalink: /essays/
   _Eliezer Berkovits, Faith and History: Essays on Prayer, Exile, and Return (May 21, 2024)_
   > Responds to an essay published in *TRADITION* about Heschel and “divine pathos,” arguing that it misrepresents R. Eliezer Berkovits as a Maimonidean rationalist. Drawing on *God, Man and History* and Berkovits’ own later clarifications, it claims that Berkovits accepts the biblical language of God’s concern but criticizes Heschel for letting that language blur the line between God’s transcendence and human emotion.
 - **[The BEST: The Office](https://traditiononline.org/the-best-the-office/)**  
-  _(January 29, 2026)_    
+  _(January 29, 2026)_  
   >Uses “Scott’s Tots” from The Office to ask how we judge wrongdoing when intentions feel “good” and outcomes might still help, and argues—via moral luck—that responsibility turns on what was chosen and why, not on whatever benefits happen afterward. It traces that distinction through Michael Scott’s self-deception, the moral recoil of Lot’s story (Genesis 19) and its later repair in Ruth, and then shows how halakha treats intention as decisive in yibbum versus halitza (Bekhorot 1:7; Yevamot 39b), as a model for weighing accountability before consequences can rewrite the story.
 ---
 
