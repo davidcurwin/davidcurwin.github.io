@@ -22,7 +22,7 @@ permalink: /essays/
 
 - **[Review: Approaching Transition](https://traditiononline.org/review-approaching-transition/)**  
   _Gishat HaTemurot_ [Hebrew], edited by Hezi Cohen and Aviad Evron  
-  (October 23, 2019)
+  _(October 23, 2019)_
 - **[Words of Ailing, Words of Healing](https://traditiononline.org/words-of-ailing-words-of-healing/)**  
   _(March 30, 2020)_
   >Traces how Hebrew vocabulary for illness, plague, disease, recovery, and healing reflects ancient roots, later linguistic development, and shifting assumptions about health. Uses the phenomenon of contronyms—especially a root that can mean both “to heal” and “to weaken”—to frame the uncertainty of the pandemic, concluding with a rabbinic passage that holds together trust in medicine and trust in God as healer.
@@ -39,13 +39,14 @@ permalink: /essays/
   >Contrasts *Saving Private Ryan* with *The Irishman* to ask what it means to “earn” the sacrifices of the past, and what kind of life leaves a real legacy. Bringing the films into conversation with biblical concerns about remembrance and Kohelet’s skepticism about lasting fame, it argues that the most enduring legacy is not public achievement but a life of moral responsibility—expressed in family, commitment, and reverence for God.
 - **[Response: Considering "God, Man and History"](https://traditiononline.org/response-considering-god-man-and-history/)**  
   _(December 13, 2022)_
-  >Reassesses R. Eliezer Berkovits’ critique of R. Abraham J. Heschel on “divine pathos” by arguing that Berkovits is miscast as a Maimonidean rationalist when his God, Man and History explicitly affirms divine “love and mercy” and aligns him with Yehuda Halevi. Berkovits’ sharp response to Heschel is framed instead as a boundary-setting move: preserving the Creator–creation distinction while still insisting on a God who is living, relational, and morally engaged.
+  >Responds to an essay published in *TRADITION* about Heschel and “divine pathos,” arguing that it misrepresents R. Eliezer Berkovits as a Maimonidean rationalist. Drawing on *God, Man and History* and Berkovits’ own later clarifications, it claims that Berkovits accepts the biblical language of God’s concern but criticizes Heschel for letting that language blur the line between God’s transcendence and human emotion.
 - **[Review: Faith and History](https://traditiononline.org/review-faith-and-history/)**  
-  _Eliezer Berkovits, Faith and History: Essays on Prayer, Exile, and Return (May 21, 2024)_
-  > Responds to an essay published in *TRADITION* about Heschel and “divine pathos,” arguing that it misrepresents R. Eliezer Berkovits as a Maimonidean rationalist. Drawing on *God, Man and History* and Berkovits’ own later clarifications, it claims that Berkovits accepts the biblical language of God’s concern but criticizes Heschel for letting that language blur the line between God’s transcendence and human emotion.
+  _Eliezer Berkovits, Faith and History: Essays on Prayer, Exile, and Return_
+  _(May 21, 2024)_
 - **[The BEST: The Office](https://traditiononline.org/the-best-the-office/)**  
-  _(January 29, 2026)_  
+  _(January 29, 2026)_
   >Uses “Scott’s Tots” from The Office to ask how we judge wrongdoing when intentions feel “good” and outcomes might still help, and argues—via moral luck—that responsibility turns on what was chosen and why, not on whatever benefits happen afterward. It traces that distinction through Michael Scott’s self-deception, the moral recoil of Lot’s story (Genesis 19) and its later repair in Ruth, and then shows how halakha treats intention as decisive in yibbum versus halitza (Bekhorot 1:7; Yevamot 39b), as a model for weighing accountability before consequences can rewrite the story.
+
 ---
 
 ## Hakirah
