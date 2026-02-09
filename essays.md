@@ -49,7 +49,6 @@ permalink: /essays/
 - **[The Torah Will Never Change](https://traditiononline.org/the-torah-will-never-change/)**  
   _(February 9, 2026)_
   >Reads Maimonides’ ninth principle (“the Torah will never be changed”) through two Religious Zionist responses to modern sovereignty: R. Joseph B. Soloveitchik’s added “fourteenth Ani Ma’amin,” which makes the principle a practical claim that Torah can be fully realized under every technological and political condition, and R. Chaim Hirschensohn’s insistence that the same principle is endangered precisely by rigidity that denies halakhic “contingencies.” The essay pivots from the Rav’s fear of concession (revision or retreat) to Hirschensohn’s fear of brittleness (dogmatized inflexibility), arguing that each diagnoses a different way Torah’s permanence can be hollowed out in modern public life.
----
 
 ## Hakirah
 
@@ -60,7 +59,6 @@ permalink: /essays/
   _Hakirah 33 (2023)_
   >Compares Rabbi Joseph B. Soloveitchik (“the Rav”) and Rabbi Eliezer Berkovits—two thinkers with parallel biographies—to ask how halakhah should relate to history in the modern period. Traces the Rav’s halakhic formalism against Berkovits’s view of halakhah as Torah applied to changing realities, and argues (through the later pairing of R. Aharon Lichtenstein and R. Yehudah Amital) that Orthodoxy today needs to recover Berkovits’s approach.
 
----
 
 ## Jewish Bible Quarterly
 
@@ -71,7 +69,7 @@ permalink: /essays/
   _Jewish Bible Quarterly 50:4 (2022)_
   >Examines why Deuteronomy commands Israel not to abhor Edom and Egypt, and not to harass Moab, despite their hostile treatment of Israel. By tracing parallel motifs in the Torah’s narratives (birthright, blessing, and the “great cry”) and drawing on Rabbi Jonathan Sacks’s reading of chosenness, it argues that the Torah builds moral memory without chauvinism by requiring empathy even toward rivals and the “unchosen.”
 
----
+
 
 ## The Lehrhaus
 
@@ -92,7 +90,7 @@ permalink: /essays/
   >Reads Deuteronomy 20:19–20 against Genesis 2–3 to ask why the siege law protects fruit trees but permits cutting down non-fruit-bearing trees. Argues that the verse’s emphasis on “knowing” a tree is not for food deliberately echoes Eden’s Tree of Knowledge and Tree of Life, and—through Rabbi Joseph B. Soloveitchik’s *The Lonely Man of Faith*—frames the mitzvah as a wartime boundary between “conquer and subdue” and “work and guard,” privileging the protection of life-sustaining trees even during conquest.
 
 
----
+
 
 ## 18Forty
 
@@ -101,14 +99,13 @@ permalink: /essays/
   >Explores how AI-generated images and video undermine the modern assumption that recordings can function as proof, and asks what a culture of truth looks like once “seeing” no longer guarantees believing. Drawing on Andrew Bosworth’s “pre-1900s” analogy and the Torah’s witness model (Deuteronomy 19:15; Sanhedrin 37b), it argues that halacha’s reliance on accountable human testimony—tested through multiple witnesses and cross-examination—offers a workable framework for verification in an era of deepfakes and the “liar’s dividend.”
 
 
----
 
 ## Seforim Blog
 
 - **[Mikra Pashut: A New Reading of the Tanakh](https://seforimblog.com/2025/09/mikra-pashut-a-new-reading-of-the-tanakh/)**  
   _(September 9, 2025)_
 
----
+
 
 ## Daf Aleph
 
@@ -120,7 +117,7 @@ permalink: /essays/
   >Traces how the modern literary approach to Tanakh can keep readers engaged with the text even when questions about contradictions, authorship, and historicity threaten faith and shut down dialogue between “believers” and “non-believers.” After surveying Robert Alter, James Kugel, and Rabbi Mordechai Breuer, it argues that the Orthodox literary work of Prof. Yonatan Grossman and Rabbi David Fohrman—grounded in Maimonides’ approach to aggadah and Rabbi Joseph B. Soloveitchik’s truth/accuracy distinction—offers a workable framework for serious reading without polemics or apologetics. 
 
 
----
+
 
 ## Published in Books
 
@@ -129,7 +126,7 @@ permalink: /essays/
   >Traces how the Torah’s ideal of Israel as a “kingdom of priests”—as explained by Sforno on Exodus 19:5–6—was meant to bring God’s name and justice to the nations, and asks why that mission repeatedly stalled in biblical history. It argues that at key turning points (Abraham in Egypt, Joseph before Pharaoh, Solomon’s Temple, and Zerubbabel’s refusal of partnership in Ezra 4), Israel repeatedly turned inward at moments that could have advanced that universal calling, delaying the broader blessing promised in Genesis 12:3.
 
 
----
+
 
 ## Times of Israel
 
@@ -174,7 +171,7 @@ Here are some selected posts (chronological):
   _(September 28, 2025)_
   >Tracks repeated phrases and motifs linking Hallel (Psalms 113–118) with Jonah’s sea narrative (Jonah 1–2), and asks why two texts that sound so similar end up disagreeing about who deserves mercy. The essay argues that the break comes in Jonah’s labeling of sinners as “liars,” which Hallel corrects through its own self-rebuke and a model of renewal (*ma’avir rishon rishon*, as developed by Rabbi Yoel Bin Nun), with a practical extension—drawn from Dr. Richard Curwin’s educational writing—toward resisting moral “labeling” in how people judge one another.
 
----
+
 
 ## Academia.edu
 
