@@ -46,7 +46,9 @@ permalink: /essays/
 - **[The BEST: The Office](https://traditiononline.org/the-best-the-office/)**  
   _(January 29, 2026)_
   >Uses “Scott’s Tots” from The Office to ask how we judge wrongdoing when intentions feel “good” and outcomes might still help, and argues—via moral luck—that responsibility turns on what was chosen and why, not on whatever benefits happen afterward. It traces that distinction through Michael Scott’s self-deception, the moral recoil of Lot’s story (Genesis 19) and its later repair in Ruth, and then shows how halakha treats intention as decisive in yibbum versus halitza (Bekhorot 1:7; Yevamot 39b), as a model for weighing accountability before consequences can rewrite the story.
-
+- **[The Torah Will Never Change](https://traditiononline.org/the-torah-will-never-change/)**  
+  _(February 9, 2026)_
+  >Reads Maimonides’ ninth principle (“the Torah will never be changed”) through two Religious Zionist responses to modern sovereignty: R. Joseph B. Soloveitchik’s added “fourteenth Ani Ma’amin,” which makes the principle a practical claim that Torah can be fully realized under every technological and political condition, and R. Chaim Hirschensohn’s insistence that the same principle is endangered precisely by rigidity that denies halakhic “contingencies.” The essay pivots from the Rav’s fear of concession (revision or retreat) to Hirschensohn’s fear of brittleness (dogmatized inflexibility), arguing that each diagnoses a different way Torah’s permanence can be hollowed out in modern public life.
 ---
 
 ## Hakirah
