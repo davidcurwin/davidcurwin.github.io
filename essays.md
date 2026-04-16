@@ -90,7 +90,7 @@ permalink: /essays/
   >Reads Deuteronomy 20:19–20 against Genesis 2–3 to ask why the siege law protects fruit trees but permits cutting down non-fruit-bearing trees. Argues that the verse’s emphasis on “knowing” a tree is not for food deliberately echoes Eden’s Tree of Knowledge and Tree of Life, and—through Rabbi Joseph B. Soloveitchik’s *The Lonely Man of Faith*—frames the mitzvah as a wartime boundary between “conquer and subdue” and “work and guard,” privileging the protection of life-sustaining trees even during conquest.
 - **[Love Bends the Line](https://thelehrhaus.com/jewish-thought-history/love-bends-the-line/)**   
   _(April 16, 2026)_
-  >Trackes the idea that love departs from strict rational line while retaining its own coherence, moving from creation and covenant to mitzvot and faith through Ha-Levi, Maimonides, Rabbi Joseph B. Soloveitchik, and Rabbi Aaron Lichtenstein. It argues that love is neither utilitarian nor absurd: it gives without need, binds without full explanation, and is known most fully from within relation rather than from proof.
+  >Traces the idea that love departs from strict rational line while retaining its own coherence, moving from creation and covenant to mitzvot and faith through Ha-Levi, Maimonides, Rabbi Joseph B. Soloveitchik, and Rabbi Aaron Lichtenstein. It argues that love is neither utilitarian nor absurd: it gives without need, binds without full explanation, and is known most fully from within relation rather than from proof.
 
 
 
